@@ -23,4 +23,4 @@ Blog Sections
  
 Legal Speak
 ==================
-*copy; 2013 JobNewton, Inc.
+&copy; 2013 JobNewton, Inc.
