@@ -21,8 +21,7 @@ Blog Sections
 - Money & Finance
 - Generation Y
 - In The News
-- Not the future of work
-- 
+- Not the future of work 
  
 Legal Speak
 ==================
