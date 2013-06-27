@@ -9,6 +9,7 @@ About this Repository
 Working hard to make the blog a unique addition to the JobNewton Platform.
 Follow our upcoming release cycle.
 
+Check out the issues section for our release roadmap.
 
 Blog Sections
 ==================
@@ -20,6 +21,8 @@ Blog Sections
 - Money & Finance
 - Generation Y
 - In The News
+- Not the future of work
+- 
  
 Legal Speak
 ==================
