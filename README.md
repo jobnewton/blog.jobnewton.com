@@ -22,6 +22,16 @@ Blog Sections
 - Generation Y
 - In The News
 - Not the future of work 
+
+Structure and Design
+====================
+
+The blog will be designed like the nytimes or wsj websites. It will include rich content much like the npr and huffington post websites.
+
+Implementation Timeframe
+=======================
+
+Complete target is 2 weeks.
  
 Legal Speak
 ==================
